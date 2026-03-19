@@ -1,2 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","7746","TC_AP_001 Verify that ""Organization Management"" has sub-modules","chromium","Sun Feb 09 23:55:59 UTC 2025","passed","Sun Feb 09 23:56:06 UTC 2025","","DECIMAL_WEB/TC_AP_001.spec.ts","",""
